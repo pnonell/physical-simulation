@@ -1,6 +1,6 @@
 # Part 2: Satellite orbiting the Earth
 
-To run the game, open the file main.pde and run it on Processing.
+To run the simulation, open the file main.pde and run it on Processing.
 
 There are 4 different options (A, B, C and D), which can be switched by changing the letter on line 15 of the code.
 
